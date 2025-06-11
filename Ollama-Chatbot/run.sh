@@ -1,0 +1,1 @@
+python3 -m streamlit run 4_chatbot_ollama.py
